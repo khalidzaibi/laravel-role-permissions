@@ -55,7 +55,7 @@ So, You've got the project of Laravel Role & Permission Management on your http:
 
 ## How it works
 1. Login using Super Admin Credential -
-    1. Email - `superadmin`
+    1. Email - `superadmin@example.com`
     1. Password - `12345678`
 2. Create Admin
 3. Create Role
