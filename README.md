@@ -49,7 +49,7 @@ Run Project -
 php artisan serve
 ```
 
-Since, there is any problem to seeder, Please import the .sql file directly - https://github.com/khalidzaibi/laravel-roles-permissions/blob/main/database/sql/roles_permission.sql
+Since, there is any problem to seeder, Please import the .sql file directly - https://github.com/khalidzaibi/laravel-role-permissions/blob/main/database/sql/roles_permission.sql
 
 So, You've got the project of Laravel Role & Permission Management on your http://localhost:8000
 
